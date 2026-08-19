@@ -1,0 +1,6 @@
+[
+  {"key": "scope_met", "question": "Does the delivered work cover every item listed in the agreed scope?", "mandatory": true},
+  {"key": "delivered_on_time", "question": "Was the work delivered on or before the agreed deadline stated in the evidence?", "mandatory": false},
+  {"key": "format_correct", "question": "Is the deliverable in the file format and structure the agreement specified?", "mandatory": false},
+  {"key": "no_placeholder_content", "question": "Is the deliverable free of placeholder, dummy, or unfinished sections?", "mandatory": true}
+]

@@ -1,0 +1,7 @@
+[
+  {"key": "eligible_applicant", "question": "Does the applicant meet the eligibility conditions stated in the evidence?", "mandatory": true},
+  {"key": "clear_deliverables", "question": "Does the proposal state concrete deliverables rather than intentions only?", "mandatory": true},
+  {"key": "budget_justified", "question": "Is each budget line tied to a stated deliverable?", "mandatory": false},
+  {"key": "prior_work_shown", "question": "Is verifiable prior work referenced?", "mandatory": false},
+  {"key": "timeline_realistic", "question": "Is the proposed timeline consistent with the scale of the deliverables?", "mandatory": false}
+]

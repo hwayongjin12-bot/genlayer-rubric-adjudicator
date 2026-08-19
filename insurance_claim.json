@@ -1,0 +1,6 @@
+[
+  {"key": "medically_indicated", "question": "Does the record show the treatment was medically indicated for a diagnosed condition, rather than elective maintenance?", "mandatory": true},
+  {"key": "documentation_complete", "question": "Is a dated practitioner record present that describes the treatment performed?", "mandatory": true},
+  {"key": "within_policy_scope", "question": "Does the treatment fall within the policy scope described in the evidence?", "mandatory": false},
+  {"key": "amount_consistent", "question": "Is the claimed amount consistent with the treatment actually described?", "mandatory": false}
+]
